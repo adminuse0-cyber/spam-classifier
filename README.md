@@ -5,7 +5,7 @@ An end-to-end Machine Learning classification web app built using Python, Scikit
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click Here to Access Live Web App](https://tamari-spam-app-link.streamlit.app)** *(Deployment pachi link ahiya update karjo)*
+🔗 https://spam-classifier-k9c8lfrqebsy3qfhvybxnk.streamlit.app/
 
 ---
 
